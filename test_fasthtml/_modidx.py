@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://Jhutty.github.io',
                 'git_url': 'https://github.com/Jhutty/test_fasthtml',
                 'lib_path': 'test_fasthtml'},
-  'syms': {'test_fasthtml.core': {'test_fasthtml.core.foo': ('core.html#foo', 'test_fasthtml/core.py')}}}
+  'syms': {'test_fasthtml.core': {'test_fasthtml.core.home': ('core.html#home', 'test_fasthtml/core.py')}}}
