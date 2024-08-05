@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "test_fasthtml",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "test_fasthtml"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "test_fasthtml",
+    "section": "Install",
+    "text": "Install\npip install test_fasthtml",
+    "crumbs": [
+      "test_fasthtml"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "test_fasthtml",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "test_fasthtml"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "First Webpage",
+    "section": "",
+    "text": "page = Html(\n    Head(Title('Some page')),\n    Body(Div('Some text, ', A('A link', href='https://example.com'), Img(src=\"https:/placehold.co/200\"), cls='myclass')))\nprint(to_xml(page))\n\n&lt;html&gt;\n  &lt;head&gt;\n    &lt;title&gt;Some page&lt;/title&gt;\n  &lt;/head&gt;\n  &lt;body&gt;\n    &lt;div class=\"myclass\"&gt;\nSome text, \n      &lt;a href=\"https://example.com\"&gt;A link&lt;/a&gt;\n      &lt;img src=\"https:/placehold.co/200\"&gt;\n    &lt;/div&gt;\n  &lt;/body&gt;\n&lt;/html&gt;\n\n\n\n\nshow(page)\n\n\n  \n    Some page\n  \n  \n    \nSome text, \n      A link\n      \n    \n  \n\n\n\n\nsource\n\nhome\n\n home ()\n\n\ndef foo(): pass",
+    "crumbs": [
+      "First Webpage"
+    ]
+  }
+]
