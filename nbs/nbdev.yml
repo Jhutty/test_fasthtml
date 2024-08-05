@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test_fasthtml"
+  site-url: "https://Jhutty.github.io/test_fasthtml"
+  description: "This is a repo to test building web apps using FastHTML"
+  repo-branch: main
+  repo-url: "https://github.com/Jhutty/test_fasthtml"
